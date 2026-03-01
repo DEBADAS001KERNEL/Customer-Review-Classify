@@ -47,7 +47,5 @@ The fine-tuned model achieved **85% accuracy** on the evaluation dataset, demons
 - Deploy as an API  
 - Add confidence scoring  
 
----
 
-## 👨‍💻 Author
-Your Name
+
